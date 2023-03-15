@@ -1,0 +1,17 @@
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    color:gray;
+}
+
+#highScore {
+    display:inline-block; margin-right: 10px;
+    margin-left: 50px;
+}
+
+#timer {
+    float: right;
+    margin-right: 50px;
+}
