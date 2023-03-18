@@ -1,2 +1,1 @@
-function start() {
-    document
+var strtQuiz = document.getElementById("startQuiz");

@@ -16,3 +16,23 @@ a:hover {
     margin-right: 50px;
 }
 
+#start {
+    display: block;
+    width: 400px;
+    height: 250px;
+    background-color: powderblue;
+    border-radius: 10px;
+    font-size: 50px;
+    position: absolute;
+    top: 35%;
+    left: 35%;
+}
+
+#start:hover {
+    background-color: lightblue;
+    cursor: pointer;
+}
+
+#startContainer{
+    text-align: center;
+}
