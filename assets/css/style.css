@@ -58,3 +58,19 @@ a:hover {
     padding: 0px;
     height: auto;
 }
+
+#resultsStyle{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    padding: 0px;
+    height: auto;
+}
+
+#resultInput{
+    width: 200px;
+    height: 25px;
+    margin: 10px;
+}
