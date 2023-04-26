@@ -36,3 +36,25 @@ a:hover {
 #startContainer{
     text-align: center;
 }
+
+#highscoreTitle{
+    text-align: center;
+}
+
+#highscoreList{
+    text-align: center;
+}
+
+#gameTitle{
+    text-align: center;
+}
+
+#gameContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    padding: 0px;
+    height: auto;
+}
